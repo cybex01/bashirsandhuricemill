@@ -6,7 +6,7 @@ export function About() {
           {/* Image */}
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1762529485734-e1d92344c7ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyaWNlJTIwbWlsbCUyMGZhY3RvcnklMjBtYWNoaW5lcnl8ZW58MXx8fHwxNzczNTEzNDY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+              src="https://scontent.fskt5-2.fna.fbcdn.net/v/t39.30808-6/497799309_122098829540874262_4631276596015960512_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7b2446&_nc_ohc=nC2gwxhTnN4Q7kNvwHRYOag&_nc_oc=AdoLNOQ9LwHuPeLxsGCl3QFRjL9JEkXP7Q_I-IkDHfiN74Mdwd-ktFuXTQP-4HqnQDQ&_nc_zt=23&_nc_ht=scontent.fskt5-2.fna&_nc_gid=YmD1rwNQ8XYcgJ4zP1gylA&_nc_ss=7a30f&oh=00_AfyM39kDYd0WyIuxbowNhdQ-R7ALuQP2IFSLPXkrhag2fA&oe=69CC985D"
               alt="Bashir Sandhu Rice Mill facility with rice fields"
               className="rounded-lg shadow-2xl"
             />
