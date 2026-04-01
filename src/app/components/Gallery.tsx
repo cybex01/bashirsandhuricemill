@@ -6,7 +6,7 @@ export function Gallery() {
 
   const images = [
     {
-      url: 'https://images.unsplash.com/photo-1655903724829-37b3cd3d4ab9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyaWNlJTIwZmllbGQlMjBwYWRkeSUyMGdyZWVufGVufDF8fHx8MTc3MzUwMjkxM3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      url: 'https://scontent.fskt5-2.fna.fbcdn.net/v/t39.30808-6/497799309_122098829540874262_4631276596015960512_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7b2446&_nc_ohc=NtzW5jwGUx8Q7kNvwELBCOI&_nc_oc=AdonH9S0-xhI73k0jaVVBLkxQI9BN9oGJtq8PGHfxfWDarxtiAWDIabKMWJeJVGqOJE&_nc_zt=23&_nc_ht=scontent.fskt5-2.fna&_nc_gid=eXL-svBuJ3A_xMv-OZbP_w&_nc_ss=7a389&oh=00_Af2sF1W51Z3Ylg5_ec3Qcp4alzuZQte255HnajvCtNiIKw&oe=69D32FDD',
       title: 'Lush Rice Fields',
     },
     {
