@@ -1,5 +1,4 @@
 import { Check } from 'lucide-react';
-import pk386Image from 'figma:asset/a1d683d9614a7fc81984d46138785e0729f0dd46.png';
 
 export function Products() {
   const products = [
@@ -18,7 +17,7 @@ export function Products() {
     },
     {
       name: 'PK-386 Rice',
-      image: pk386Image,
+      image: 'https://images.unsplash.com/photo-1763431158054-ccc996a3deac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMHJpY2UlMjBncmFpbnMlMjB0ZXh0dXJlfGVufDF8fHx8MTc3NDYzMTY5N3ww&ixlib=rb-4.1.0&q=80&w=1080',
       description: 'High-yielding aromatic rice variety with excellent grain quality and taste.',
       features: [
         'Aromatic grains',

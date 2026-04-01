@@ -1,5 +1,3 @@
-//import ricemillImage from 'figma:asset/17225ed38450c8d86dcb27497551cb2b64dca3fb.png';
-import ricemillImage from '@/assets/17225ed38450c8d86dcb27497551cb2b64dca3fb.png';
 export function About() {
   return (
     <section id="about" className="py-20 bg-white">
@@ -8,7 +6,7 @@ export function About() {
           {/* Image */}
           <div className="relative">
             <img
-              src={ricemillImage}
+              src="https://images.unsplash.com/photo-1762529485734-e1d92344c7ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyaWNlJTIwbWlsbCUyMGZhY3RvcnklMjBtYWNoaW5lcnl8ZW58MXx8fHwxNzczNTEzNDY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
               alt="Bashir Sandhu Rice Mill facility with rice fields"
               className="rounded-lg shadow-2xl"
             />

@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import { X } from 'lucide-react';
-import processingFacilityImage from 'figma:asset/bcabf1ca5012e257f5cc8815c277265e49ddf1e0.png';
 
 export function Gallery() {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
@@ -11,8 +10,8 @@ export function Gallery() {
       title: 'Lush Rice Fields',
     },
     {
-      url: processingFacilityImage,
-      title: 'Bashir Sandhu Rice Mill - Processing Facility',
+      url: 'https://images.unsplash.com/photo-1762529485734-e1d92344c7ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyaWNlJTIwbWlsbCUyMGZhY3RvcnklMjBtYWNoaW5lcnl8ZW58MXx8fHwxNzczNTEzNDY0fDA&ixlib=rb-4.1.0&q=80&w=1080',
+      title: 'Rice Mill Processing Facility',
     },
     {
       url: 'https://images.unsplash.com/photo-1627482265910-5c0ff6bee088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHw0fHxwcmVtaXVtJTIwYmFzbWF0aSUyMHJpY2UlMjBncmFpbnMlMjBjbG9zZSUyMHVwfGVufDF8fHx8MTc3NDYzMTY5Nnww&ixlib=rb-4.1.0&q=80&w=1080',
